@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>16b594e58381e650a946f896feaad3e0</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="u_employee">
+    <u_employee action="INSERT_OR_UPDATE">
+        <accumulated_roles/>
+        <active>true</active>
+        <avatar/>
+        <building/>
+        <calendar_integration>1</calendar_integration>
+        <city/>
+        <company/>
+        <cost_center/>
+        <country/>
+        <date_format/>
+        <default_perspective/>
+        <department/>
+        <edu_status>faculty</edu_status>
+        <email>krishnarajzynder@gmail.com</email>
+        <employee_number/>
+        <enable_multifactor_authn>false</enable_multifactor_authn>
+        <failed_attempts>0</failed_attempts>
+        <fax/>
+        <federated_id>7mMffn5UDJI5D1BiXbGQVoWOoeuO3kCV8qPpJiwAdTQ=</federated_id>
+        <first_name>Krishna </first_name>
+        <gender/>
+        <hashed_user_id>578ef833a18be144e452505af864473536246b66a36a1cae6c7364be87859b8d</hashed_user_id>
+        <home_phone/>
+        <internal_integration_user>false</internal_integration_user>
+        <introduction/>
+        <last_login>2025-05-10</last_login>
+        <last_login_device>1.39.115.66</last_login_device>
+        <last_login_time>2025-05-10 16:01:01</last_login_time>
+        <last_name>Raj</last_name>
+        <last_password/>
+        <ldap_server/>
+        <location/>
+        <locked_out>false</locked_out>
+        <manager/>
+        <middle_name/>
+        <mobile_phone/>
+        <name>Krishna  Raj</name>
+        <notification>2</notification>
+        <password_needs_reset>false</password_needs_reset>
+        <phone/>
+        <photo/>
+        <preferred_language/>
+        <roles/>
+        <schedule/>
+        <source/>
+        <state/>
+        <street/>
+        <sys_class_name>u_employee</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-21 07:19:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>16b594e58381e650a946f896feaad3e0</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>SA</sys_updated_by>
+        <sys_updated_on>2025-04-21 13:26:33</sys_updated_on>
+        <time_format/>
+        <time_zone/>
+        <title/>
+        <u_number>EMP0001006</u_number>
+        <user_name>Krishna.Raj</user_name>
+        <user_password>$s$QODkGFmYNA1qeppxWx77iwPpxkZn6dXzK/ilZ4zXwnw=$7THUCNdR0IUEi1hBWzJpYAGJEuyKN3pj9pF6r4fshRI=</user_password>
+        <vip>false</vip>
+        <web_service_access_only>false</web_service_access_only>
+        <zip/>
+    </u_employee>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Sreerag.Anchery</sys_created_by>
+        <sys_created_on>2025-05-17 12:00:21</sys_created_on>
+        <sys_id>138f437d83a96610a946f896feaad3ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Krishna  Raj</sys_name>
+        <sys_package display_value="Zynder Data Hub" source="4ba6cf3983696610a946f896feaad37d">4ba6cf3983696610a946f896feaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Zynder Data Hub">4ba6cf3983696610a946f896feaad37d</sys_scope>
+        <sys_update_name>sys_metadata_link_138f437d83a96610a946f896feaad3ad</sys_update_name>
+        <sys_updated_by>Sreerag.Anchery</sys_updated_by>
+        <sys_updated_on>2025-05-17 12:00:21</sys_updated_on>
+        <tablename>u_employee</tablename>
+    </sys_metadata_link>
+</record_update>

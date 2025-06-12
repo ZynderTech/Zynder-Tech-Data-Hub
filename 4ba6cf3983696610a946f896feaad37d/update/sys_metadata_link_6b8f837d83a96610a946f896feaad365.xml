@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>18b875e7c3f0221052237405e4013105</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="u_project_activity">
+    <u_project_activity action="INSERT_OR_UPDATE">
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2025-04-15 09:23:08</sys_created_on>
+        <sys_id>18b875e7c3f0221052237405e4013105</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-04-15 09:23:08</sys_updated_on>
+        <u_project display_value="Venga CMDB Project">b63b5184c3b42a1052237405e4013122</u_project>
+        <u_resources>298d224ec363121052237405e40131d9</u_resources>
+        <u_short_description/>
+        <u_work_notes/>
+    </u_project_activity>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Sreerag.Anchery</sys_created_by>
+        <sys_created_on>2025-05-17 12:00:22</sys_created_on>
+        <sys_id>6b8f837d83a96610a946f896feaad365</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2025-04-15 14:53:08</sys_name>
+        <sys_package display_value="Zynder Data Hub" source="4ba6cf3983696610a946f896feaad37d">4ba6cf3983696610a946f896feaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Zynder Data Hub">4ba6cf3983696610a946f896feaad37d</sys_scope>
+        <sys_update_name>sys_metadata_link_6b8f837d83a96610a946f896feaad365</sys_update_name>
+        <sys_updated_by>Sreerag.Anchery</sys_updated_by>
+        <sys_updated_on>2025-05-17 12:00:22</sys_updated_on>
+        <tablename>u_project_activity</tablename>
+    </sys_metadata_link>
+</record_update>

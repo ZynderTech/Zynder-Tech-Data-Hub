@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>124437d843833110f3c394b135b8f253</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_group_has_role">
+    <sys_group_has_role action="INSERT_OR_UPDATE">
+        <granted_by/>
+        <group display_value="Creator Studio Users" name="Creator Studio Users">7f73379843833110f3c394b135b8f2f9</group>
+        <inherits>true</inherits>
+        <role display_value="sn_creatorstudio.user" name="sn_creatorstudio.user">812a039f43323110f3c394b135b8f2ea</role>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 23:50:41</sys_created_on>
+        <sys_id>124437d843833110f3c394b135b8f253</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 23:50:41</sys_updated_on>
+    </sys_group_has_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Sreerag.Anchery</sys_created_by>
+        <sys_created_on>2025-05-17 12:01:13</sys_created_on>
+        <sys_id>8ccf0ffd83a96610a946f896feaad3fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2023-12-08 05:20:41</sys_name>
+        <sys_package display_value="Zynder Data Hub" source="4ba6cf3983696610a946f896feaad37d">4ba6cf3983696610a946f896feaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Zynder Data Hub">4ba6cf3983696610a946f896feaad37d</sys_scope>
+        <sys_update_name>sys_metadata_link_8ccf0ffd83a96610a946f896feaad3fb</sys_update_name>
+        <sys_updated_by>Sreerag.Anchery</sys_updated_by>
+        <sys_updated_on>2025-05-17 12:01:13</sys_updated_on>
+        <tablename>sys_group_has_role</tablename>
+    </sys_metadata_link>
+</record_update>

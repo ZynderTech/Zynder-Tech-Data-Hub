@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>4af40617c3b4221052237405e4013161</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="u_project_effort">
+    <u_project_effort action="INSERT_OR_UPDATE">
+        <sys_created_by>Amal.Madhav</sys_created_by>
+        <sys_created_on>2025-04-14 15:41:35</sys_created_on>
+        <sys_id>4af40617c3b4221052237405e4013161</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>Athul</sys_updated_by>
+        <sys_updated_on>2025-05-21 07:51:51</sys_updated_on>
+        <u_additional_comment/>
+        <u_approval>requested</u_approval>
+        <u_date>2025-04-14</u_date>
+        <u_end_time>2025-04-14 15:39:21</u_end_time>
+        <u_number>PE0001179</u_number>
+        <u_other/>
+        <u_project_name display_value="ITC Edwards ITSM Project">b2f9853fc364a61052237405e40131c5</u_project_name>
+        <u_project_work>Created the time line excel sheet of next epic&#13;
+checked the working of story NOW 1300&#13;
+&#13;
+now learning -&#13;
+Started Virtual agent fundamentals</u_project_work>
+        <u_remarks/>
+        <u_resourse display_value="Amal Madhav">5a8898a98381e650a946f896feaad37d</u_resourse>
+        <u_start_time>2025-04-14 06:38:53</u_start_time>
+        <u_work_hour>9.01</u_work_hour>
+        <u_work_notes/>
+    </u_project_effort>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Sreerag.Anchery</sys_created_by>
+        <sys_created_on>2025-05-17 12:00:23</sys_created_on>
+        <sys_id>b78fc37d83a96610a946f896feaad356</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PE0001179</sys_name>
+        <sys_package display_value="Zynder Data Hub" source="4ba6cf3983696610a946f896feaad37d">4ba6cf3983696610a946f896feaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Zynder Data Hub">4ba6cf3983696610a946f896feaad37d</sys_scope>
+        <sys_update_name>sys_metadata_link_b78fc37d83a96610a946f896feaad356</sys_update_name>
+        <sys_updated_by>Sreerag.Anchery</sys_updated_by>
+        <sys_updated_on>2025-05-21 08:40:09</sys_updated_on>
+        <tablename>u_project_effort</tablename>
+    </sys_metadata_link>
+</record_update>

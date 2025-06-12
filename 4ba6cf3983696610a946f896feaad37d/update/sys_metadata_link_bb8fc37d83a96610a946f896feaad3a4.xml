@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>75a21272c350221052237405e40131ce</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="u_project_effort">
+    <u_project_effort action="INSERT_OR_UPDATE">
+        <sys_created_by>Suchithra.PS</sys_created_by>
+        <sys_created_on>2025-03-19 07:14:26</sys_created_on>
+        <sys_id>75a21272c350221052237405e40131ce</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>Athul</sys_updated_by>
+        <sys_updated_on>2025-05-21 07:51:51</sys_updated_on>
+        <u_additional_comment/>
+        <u_approval>requested</u_approval>
+        <u_date>2025-03-18</u_date>
+        <u_end_time>2025-03-18 16:30:21</u_end_time>
+        <u_number>PE0001076</u_number>
+        <u_other/>
+        <u_project_name display_value="Equinix Legal Service Delivery Project">ac3b3b52c308221052237405e40131f8</u_project_name>
+        <u_project_work>LGL 126 : GLOSS pop-up language for transfer request:&#13;
+-  Added a new component under the category field.&#13;
+-  Created a client state parameter to control the visibility of the alert.&#13;
+- Created a system property to store the Sys ID of the Gloss Request.&#13;
+- Created a Data Resource to call the system property, and also set up a data broker ACL.&#13;
+-  Modified the filter subcategory client script.&#13;
+- The story has been completed and moved to SIT.&#13;
+&#13;
+Venka:&#13;
+- Fix Button Visibility Issue.&#13;
+&#13;
+Learning Course:&#13;
+- Security Operations (SecOps) Fundamentals On-Demand - 2%.</u_project_work>
+        <u_remarks/>
+        <u_resourse display_value="Suchithra PS">864718698381e650a946f896feaad336</u_resourse>
+        <u_start_time>2025-03-18 05:30:03</u_start_time>
+        <u_work_hour>11.01</u_work_hour>
+        <u_work_notes/>
+    </u_project_effort>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Sreerag.Anchery</sys_created_by>
+        <sys_created_on>2025-05-17 12:00:23</sys_created_on>
+        <sys_id>bb8fc37d83a96610a946f896feaad3a4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PE0001076</sys_name>
+        <sys_package display_value="Zynder Data Hub" source="4ba6cf3983696610a946f896feaad37d">4ba6cf3983696610a946f896feaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Zynder Data Hub">4ba6cf3983696610a946f896feaad37d</sys_scope>
+        <sys_update_name>sys_metadata_link_bb8fc37d83a96610a946f896feaad3a4</sys_update_name>
+        <sys_updated_by>Sreerag.Anchery</sys_updated_by>
+        <sys_updated_on>2025-05-21 08:40:09</sys_updated_on>
+        <tablename>u_project_effort</tablename>
+    </sys_metadata_link>
+</record_update>

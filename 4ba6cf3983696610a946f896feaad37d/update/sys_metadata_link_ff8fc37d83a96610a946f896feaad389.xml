@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>5d873d1ac350221052237405e40131b5</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="u_project_effort">
+    <u_project_effort action="INSERT_OR_UPDATE">
+        <sys_created_by>Amal.Madhav</sys_created_by>
+        <sys_created_on>2025-03-17 15:45:41</sys_created_on>
+        <sys_id>5d873d1ac350221052237405e40131b5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>Athul</sys_updated_by>
+        <sys_updated_on>2025-05-21 07:51:51</sys_updated_on>
+        <u_additional_comment/>
+        <u_approval>requested</u_approval>
+        <u_date>2025-03-17</u_date>
+        <u_end_time>2025-03-17 15:20:20</u_end_time>
+        <u_number>PE0001074</u_number>
+        <u_other/>
+        <u_project_name display_value="AYO GRC Project">61ea7392c308221052237405e40131d5</u_project_name>
+        <u_project_work>ITC Edwards&#13;
+1. NOW-1571 -- Updated picture for the catalog item, Completed Workflow by adding stages&#13;
+2. NOW-1595 -- Form development in progress, updated variables, updated catalog item - picture, short description, meta&#13;
+&#13;
+AYO GRC &#13;
+1.Completed Demo of the story : sprint 33 Control referencing field do not populate on control test whether anyone change it in the control &#13;
+2.Started second story : If control is NA , then need to keep it after the state of control state is changed to closed complete white the operational effectiveness field of the control test is "validated as not acceptable".&#13;
+3.Completed AC1 : Created the choice "validated as not acceptable " in the choice of the field operational effectiveness in the control test table&#13;
+4.Changed the Business Rule to not applicable on the two conditions where the status of control is "not acceptable" and operational effectiveness is "Validated as not acceptable".</u_project_work>
+        <u_remarks/>
+        <u_resourse display_value="Amal Madhav">5a8898a98381e650a946f896feaad37d</u_resourse>
+        <u_start_time>2025-03-17 11:00:02</u_start_time>
+        <u_work_hour>4.34</u_work_hour>
+        <u_work_notes/>
+    </u_project_effort>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Sreerag.Anchery</sys_created_by>
+        <sys_created_on>2025-05-17 12:00:23</sys_created_on>
+        <sys_id>ff8fc37d83a96610a946f896feaad389</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PE0001074</sys_name>
+        <sys_package display_value="Zynder Data Hub" source="4ba6cf3983696610a946f896feaad37d">4ba6cf3983696610a946f896feaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Zynder Data Hub">4ba6cf3983696610a946f896feaad37d</sys_scope>
+        <sys_update_name>sys_metadata_link_ff8fc37d83a96610a946f896feaad389</sys_update_name>
+        <sys_updated_by>Sreerag.Anchery</sys_updated_by>
+        <sys_updated_on>2025-05-21 08:40:09</sys_updated_on>
+        <tablename>u_project_effort</tablename>
+    </sys_metadata_link>
+</record_update>

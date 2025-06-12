@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>afc519a5c328221052237405e4013176</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="u_project_effort">
+    <u_project_effort action="INSERT_OR_UPDATE">
+        <sys_created_by>Rose.Denna</sys_created_by>
+        <sys_created_on>2025-03-27 15:33:36</sys_created_on>
+        <sys_id>afc519a5c328221052237405e4013176</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>Athul</sys_updated_by>
+        <sys_updated_on>2025-05-21 07:51:52</sys_updated_on>
+        <u_additional_comment/>
+        <u_approval>requested</u_approval>
+        <u_date>2025-03-27</u_date>
+        <u_end_time>2025-03-27 15:30:18</u_end_time>
+        <u_number>PE0001126</u_number>
+        <u_other/>
+        <u_project_name display_value="ITC Edwards ITSM Project">b2f9853fc364a61052237405e40131c5</u_project_name>
+        <u_project_work>ITC Edwards&#13;
+1. NOW-1451 (TMTT Epic) - Added customer updates from Bhargavi's update set to NOW-1451_PK_V1 , Created Schedule and scheduled entries, requested for Amazon WorkSpace, edited filter conditions of reports, &#13;
+&#13;
+Now Learning ServiceNow&#13;
+HRSD- 40%&#13;
+Predictive Intelligence - 50%</u_project_work>
+        <u_remarks/>
+        <u_resourse display_value="Rose  Denna">550890a98381e650a946f896feaad3e9</u_resourse>
+        <u_start_time>2025-03-27 06:30:18</u_start_time>
+        <u_work_hour>9.0</u_work_hour>
+        <u_work_notes/>
+    </u_project_effort>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Sreerag.Anchery</sys_created_by>
+        <sys_created_on>2025-05-17 12:00:24</sys_created_on>
+        <sys_id>8c9f077d83a96610a946f896feaad312</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PE0001126</sys_name>
+        <sys_package display_value="Zynder Data Hub" source="4ba6cf3983696610a946f896feaad37d">4ba6cf3983696610a946f896feaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Zynder Data Hub">4ba6cf3983696610a946f896feaad37d</sys_scope>
+        <sys_update_name>sys_metadata_link_8c9f077d83a96610a946f896feaad312</sys_update_name>
+        <sys_updated_by>Sreerag.Anchery</sys_updated_by>
+        <sys_updated_on>2025-05-21 08:40:10</sys_updated_on>
+        <tablename>u_project_effort</tablename>
+    </sys_metadata_link>
+</record_update>

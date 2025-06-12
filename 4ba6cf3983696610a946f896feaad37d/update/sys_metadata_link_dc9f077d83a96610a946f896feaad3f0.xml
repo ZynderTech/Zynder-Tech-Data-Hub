@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>a9d192f383892210a946f896feaad3e7</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="u_portal_modules">
+    <u_portal_modules action="INSERT_OR_UPDATE">
+        <sys_created_by>Treesa.Thomas</sys_created_by>
+        <sys_created_on>2025-04-28 16:07:44</sys_created_on>
+        <sys_id>a9d192f383892210a946f896feaad3e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Treesa.Thomas</sys_updated_by>
+        <sys_updated_on>2025-04-28 16:07:44</sys_updated_on>
+        <u_active>true</u_active>
+        <u_filter/>
+        <u_module_name>Expense Tracker</u_module_name>
+        <u_number>POR0001006</u_number>
+        <u_role name="admin">2831a114c611228501d4ea6c309d626d</u_role>
+        <u_table display_value="Expense Tracker " name="u_expense_tracker">99d0665ec3a7521052237405e40131c2</u_table>
+    </u_portal_modules>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Sreerag.Anchery</sys_created_by>
+        <sys_created_on>2025-05-17 12:00:25</sys_created_on>
+        <sys_id>dc9f077d83a96610a946f896feaad3f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>POR0001006</sys_name>
+        <sys_package display_value="Zynder Data Hub" source="4ba6cf3983696610a946f896feaad37d">4ba6cf3983696610a946f896feaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Zynder Data Hub">4ba6cf3983696610a946f896feaad37d</sys_scope>
+        <sys_update_name>sys_metadata_link_dc9f077d83a96610a946f896feaad3f0</sys_update_name>
+        <sys_updated_by>Sreerag.Anchery</sys_updated_by>
+        <sys_updated_on>2025-05-17 12:00:25</sys_updated_on>
+        <tablename>u_portal_modules</tablename>
+    </sys_metadata_link>
+</record_update>

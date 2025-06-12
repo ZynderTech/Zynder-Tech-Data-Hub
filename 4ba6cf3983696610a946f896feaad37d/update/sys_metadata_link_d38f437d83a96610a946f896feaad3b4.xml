@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>5a8898a98381e650a946f896feaad37d</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="u_employee">
+    <u_employee action="INSERT_OR_UPDATE">
+        <accumulated_roles/>
+        <active>true</active>
+        <avatar/>
+        <building/>
+        <calendar_integration>1</calendar_integration>
+        <city/>
+        <company/>
+        <cost_center/>
+        <country/>
+        <date_format/>
+        <default_perspective/>
+        <department/>
+        <edu_status>faculty</edu_status>
+        <email>amalzynder@gmail.com</email>
+        <employee_number/>
+        <enable_multifactor_authn>false</enable_multifactor_authn>
+        <failed_attempts>0</failed_attempts>
+        <fax/>
+        <federated_id>7jYpPAnR0WmRsFFqmSEKc5CDBZHMsUZJkRv86On+4Qo=</federated_id>
+        <first_name>Amal</first_name>
+        <gender/>
+        <hashed_user_id>62db55c5eb347c5d38df76d6c025e18f5fe548e7822f97e19151c6de262970aa</hashed_user_id>
+        <home_phone/>
+        <internal_integration_user>false</internal_integration_user>
+        <introduction/>
+        <last_login>2025-04-26</last_login>
+        <last_login_device>104.28.255.117</last_login_device>
+        <last_login_time>2025-04-26 07:39:50</last_login_time>
+        <last_name>Madhav</last_name>
+        <last_password/>
+        <ldap_server/>
+        <location/>
+        <locked_out>false</locked_out>
+        <manager/>
+        <middle_name/>
+        <mobile_phone/>
+        <name>Amal Madhav</name>
+        <notification>2</notification>
+        <password_needs_reset>false</password_needs_reset>
+        <phone/>
+        <photo/>
+        <preferred_language/>
+        <roles/>
+        <schedule/>
+        <source/>
+        <state/>
+        <street/>
+        <sys_class_name>u_employee</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-21 07:31:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5a8898a98381e650a946f896feaad37d</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_updated_by>Amal.Madhav</sys_updated_by>
+        <sys_updated_on>2025-04-26 09:54:29</sys_updated_on>
+        <time_format/>
+        <time_zone/>
+        <title/>
+        <u_number>EMP0001002</u_number>
+        <user_name>Amal.Madhav</user_name>
+        <user_password>$s$NMRFXBhaNgcBLXF4AkCTVWQi5gVRu4uihl6A1EBRzSc=$s+z5cE7ucjhVTRLM47koLYRg71jLGbHU6sELtdsoIWo=</user_password>
+        <vip>false</vip>
+        <web_service_access_only>false</web_service_access_only>
+        <zip/>
+    </u_employee>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Sreerag.Anchery</sys_created_by>
+        <sys_created_on>2025-05-17 12:00:21</sys_created_on>
+        <sys_id>d38f437d83a96610a946f896feaad3b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Amal Madhav</sys_name>
+        <sys_package display_value="Zynder Data Hub" source="4ba6cf3983696610a946f896feaad37d">4ba6cf3983696610a946f896feaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Zynder Data Hub">4ba6cf3983696610a946f896feaad37d</sys_scope>
+        <sys_update_name>sys_metadata_link_d38f437d83a96610a946f896feaad3b4</sys_update_name>
+        <sys_updated_by>Sreerag.Anchery</sys_updated_by>
+        <sys_updated_on>2025-05-17 12:00:21</sys_updated_on>
+        <tablename>u_employee</tablename>
+    </sys_metadata_link>
+</record_update>

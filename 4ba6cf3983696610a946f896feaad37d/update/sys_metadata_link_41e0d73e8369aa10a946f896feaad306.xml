@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>75de077a8369aa10a946f896feaad3af</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="u_git_sync_metadata">
+    <u_git_sync_metadata action="INSERT_OR_UPDATE">
+        <sys_class_name>u_git_sync_metadata</sys_class_name>
+        <sys_created_by>Sreerag.Anchery</sys_created_by>
+        <sys_created_on>2025-05-20 14:31:58</sys_created_on>
+        <sys_id>75de077a8369aa10a946f896feaad3af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GIT0001009</sys_name>
+        <sys_package display_value="Zynder Data Hub" source="4ba6cf3983696610a946f896feaad37d">4ba6cf3983696610a946f896feaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Zynder Data Hub">4ba6cf3983696610a946f896feaad37d</sys_scope>
+        <sys_update_name>u_git_sync_metadata_75de077a8369aa10a946f896feaad3af</sys_update_name>
+        <sys_updated_by>Sreerag.Anchery</sys_updated_by>
+        <sys_updated_on>2025-05-20 14:31:58</sys_updated_on>
+        <u_active>false</u_active>
+        <u_number>GIT0001009</u_number>
+        <u_query table="kb_knowledge_base">sys_updated_on&gt;=javascript:gs.beginningOfLastHour()^EQ<item endquery="false" field="sys_updated_on" goto="false" newquery="false" operator="&gt;=" or="false" value="javascript:gs.beginningOfLastHour()"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </u_query>
+        <u_table_name>kb_knowledge_base</u_table_name>
+    </u_git_sync_metadata>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Sreerag.Anchery</sys_created_by>
+        <sys_created_on>2025-05-20 14:40:08</sys_created_on>
+        <sys_id>41e0d73e8369aa10a946f896feaad306</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GIT0001009</sys_name>
+        <sys_package display_value="Zynder Data Hub" source="4ba6cf3983696610a946f896feaad37d">4ba6cf3983696610a946f896feaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Zynder Data Hub">4ba6cf3983696610a946f896feaad37d</sys_scope>
+        <sys_update_name>sys_metadata_link_41e0d73e8369aa10a946f896feaad306</sys_update_name>
+        <sys_updated_by>Sreerag.Anchery</sys_updated_by>
+        <sys_updated_on>2025-05-20 14:40:08</sys_updated_on>
+        <tablename>u_git_sync_metadata</tablename>
+    </sys_metadata_link>
+</record_update>
