@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>2a75e9ae83826250a946f896feaad370</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="u_employee_leave_tracker">
+    <u_employee_leave_tracker action="INSERT_OR_UPDATE">
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-13 08:44:36</sys_created_on>
+        <sys_id>2a75e9ae83826250a946f896feaad370</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-13 08:44:36</sys_updated_on>
+        <u_additional_comments/>
+        <u_approval>requested</u_approval>
+        <u_earned_leaves/>
+        <u_employee_name display_value="Vishnu PV">784af4a58345e650a946f896feaad31c</u_employee_name>
+        <u_end_date>2025-06-13</u_end_date>
+        <u_expected_leaves/>
+        <u_justification/>
+        <u_no_of_leaves_requested>1</u_no_of_leaves_requested>
+        <u_number>LA0001063</u_number>
+        <u_reason_for_leave>sick</u_reason_for_leave>
+        <u_start_date>2025-06-13</u_start_date>
+        <u_type_of_leave>sick</u_type_of_leave>
+        <u_work_note/>
+    </u_employee_leave_tracker>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-13 09:07:22</sys_created_on>
+        <sys_id>eceaad6683c26250a946f896feaad320</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LA0001063</sys_name>
+        <sys_package display_value="Zynder Data Hub" source="4ba6cf3983696610a946f896feaad37d">4ba6cf3983696610a946f896feaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Zynder Data Hub">4ba6cf3983696610a946f896feaad37d</sys_scope>
+        <sys_update_name>sys_metadata_link_eceaad6683c26250a946f896feaad320</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-13 09:07:22</sys_updated_on>
+        <tablename>u_employee_leave_tracker</tablename>
+    </sys_metadata_link>
+</record_update>
