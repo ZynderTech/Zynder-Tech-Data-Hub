@@ -2,8 +2,8 @@
     <sysauto_script action="INSERT_OR_UPDATE">
         <active>true</active>
         <business_calendar/>
-        <condition><![CDATA[var answer='false';
-answer = new ZynderTechUtils().gitPushCondition(answer);
+        <condition><![CDATA[// var answer='false';
+// answer = new ZynderTechUtils().gitPushConditionZynderData(answer);
 answer == 'true' ;]]></condition>
         <conditional>true</conditional>
         <entered_time>1970-01-01 00:00:00</entered_time>
@@ -25,14 +25,14 @@ new ZynderTechUtils().gitRestApiZynderDataHub();]]></script>
         <sys_created_by>Sreerag.Anchery</sys_created_by>
         <sys_created_on>2025-05-21 11:49:44</sys_created_on>
         <sys_id>ea03334783212e10a946f896feaad383</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Metadata push to Git - Zynder Data Hub</sys_name>
         <sys_package display_value="Zynder Data Hub" source="4ba6cf3983696610a946f896feaad37d">4ba6cf3983696610a946f896feaad37d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Zynder Data Hub">4ba6cf3983696610a946f896feaad37d</sys_scope>
         <sys_update_name>sysauto_script_ea03334783212e10a946f896feaad383</sys_update_name>
         <sys_updated_by>Sreerag.Anchery</sys_updated_by>
-        <sys_updated_on>2025-06-06 11:08:11</sys_updated_on>
+        <sys_updated_on>2025-08-06 13:20:20</sys_updated_on>
         <time_zone/>
         <upgrade_safe>false</upgrade_safe>
     </sysauto_script>

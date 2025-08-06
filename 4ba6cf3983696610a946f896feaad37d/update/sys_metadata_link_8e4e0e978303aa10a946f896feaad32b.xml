@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>043c86d38303aa10a946f896feaad352</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_group_has_role">
+    <sys_group_has_role action="INSERT_OR_UPDATE">
+        <granted_by/>
+        <group display_value="Employees" name="Employees">f6ce5bbbc337121052237405e401311c</group>
+        <inherits>true</inherits>
+        <role display_value="Employee" name="Employee">0fb4720ac3a3121052237405e4013132</role>
+        <sys_created_by>Sreerag.Anchery</sys_created_by>
+        <sys_created_on>2025-08-04 12:31:05</sys_created_on>
+        <sys_id>043c86d38303aa10a946f896feaad352</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Sreerag.Anchery</sys_updated_by>
+        <sys_updated_on>2025-08-04 12:31:05</sys_updated_on>
+    </sys_group_has_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Sreerag.Anchery</sys_created_by>
+        <sys_created_on>2025-08-04 12:40:15</sys_created_on>
+        <sys_id>8e4e0e978303aa10a946f896feaad32b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2025-08-04 18:01:05</sys_name>
+        <sys_package display_value="Zynder Data Hub" source="4ba6cf3983696610a946f896feaad37d">4ba6cf3983696610a946f896feaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Zynder Data Hub">4ba6cf3983696610a946f896feaad37d</sys_scope>
+        <sys_update_name>sys_metadata_link_8e4e0e978303aa10a946f896feaad32b</sys_update_name>
+        <sys_updated_by>Sreerag.Anchery</sys_updated_by>
+        <sys_updated_on>2025-08-04 12:40:15</sys_updated_on>
+        <tablename>sys_group_has_role</tablename>
+    </sys_metadata_link>
+</record_update>

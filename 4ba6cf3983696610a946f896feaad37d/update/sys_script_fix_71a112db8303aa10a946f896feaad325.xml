@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_fix">
+    <sys_script_fix action="INSERT_OR_UPDATE">
+        <before>false</before>
+        <description/>
+        <name>Delete metadata_link if record not exist</name>
+        <record_for_rollback>true</record_for_rollback>
+        <script><![CDATA[var grLink = new GlideRecord('sys_metadata_link');
+grLink.addEncodedQuery('sys_scope=8d447286c3a3121052237405e4013105^ORsys_scope=4ba6cf3983696610a946f896feaad37d^ORsys_scope=76f5433983696610a946f896feaad3d0');
+grLink.query();
+while(grLink.next()){
+	var table = grLink.tablename;
+	var sysID = grLink.documentkey;
+	var grRecord = new GlideRecord(table.toString());
+	grRecord.addQuery('sys_id',sysID.toString());
+	grRecord.setLimit(1);
+	grRecord.query();
+	if(!grRecord.next()){
+		grLink.deleteRecord();
+	}
+}]]></script>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>Sreerag.Anchery</sys_created_by>
+        <sys_created_on>2025-08-04 13:13:23</sys_created_on>
+        <sys_id>71a112db8303aa10a946f896feaad325</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete metadata_link if record not exist</sys_name>
+        <sys_package display_value="Zynder Data Hub" source="4ba6cf3983696610a946f896feaad37d">4ba6cf3983696610a946f896feaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Zynder Data Hub">4ba6cf3983696610a946f896feaad37d</sys_scope>
+        <sys_update_name>sys_script_fix_71a112db8303aa10a946f896feaad325</sys_update_name>
+        <sys_updated_by>Sreerag.Anchery</sys_updated_by>
+        <sys_updated_on>2025-08-04 13:13:23</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>71a112db8303aa10a946f896feaad325</id>
+        <sys_created_by>Sreerag.Anchery</sys_created_by>
+        <sys_created_on>2025-08-04 13:13:22</sys_created_on>
+        <sys_id>1fd51a5f8303aa10a946f896feaad393</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Sreerag.Anchery</sys_updated_by>
+        <sys_updated_on>2025-08-04 13:13:22</sys_updated_on>
+        <table>sys_script_fix</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
+</record_update>
